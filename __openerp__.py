@@ -31,7 +31,7 @@
     'version': '0.1.0',
     'depends': ['sale', 'web_tree_image', ],
     'data': [
-        #'views/sale_view.xml',
+        'views/sale_view.xml',
     ],
     'demo': [
     ],
